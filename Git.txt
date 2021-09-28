@@ -12,6 +12,6 @@ de identificação desse commit; depois de alterar o arquivo é necessário repe
 
 - Como fazer um commit: usar o comando "git commit -m" + uma mensagem de identificação desse commit.
 
-- Como fazer um push: 
+- Como fazer um push: usar o comando "git push" que vai salvar os arquivos do Git para o GitHub.
 
 - Como fazer um pull: usar o comando "git pull" que serve para baixar o diretório atualizado do GitHub.
